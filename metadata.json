@@ -1,0 +1,5 @@
+{
+  "name": "Anime Osuume AI",
+  "description": "A sleek, interactive web application that leverages the Gemini API to generate personalized anime recommendations based on user-selected genres and preferences.",
+  "requestFramePermissions": []
+}
