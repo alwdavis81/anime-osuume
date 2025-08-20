@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import type { AnimeRecommendation } from '../types';
-import { TagIcon, BookOpenIcon, SparklesIcon, StarIcon, SearchPlusIcon } from './Icons';
+import { TagIcon, StarIcon, SearchPlusIcon } from './Icons';
 
 interface AnimeCardProps {
   anime: AnimeRecommendation;
